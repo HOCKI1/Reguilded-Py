@@ -8,3 +8,6 @@ You heed to download these libs:
 
 # Building the app
 If you want to build EXE file i recommend you to use Auto-py-to-exe
+
+#P.S.
+I'm just starting using github:P
