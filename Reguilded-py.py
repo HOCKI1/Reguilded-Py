@@ -1,4 +1,3 @@
-from turtle import onclick
 import wx 
 import wx.html2 
 import webview
