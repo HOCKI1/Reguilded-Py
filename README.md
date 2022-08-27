@@ -7,7 +7,7 @@ You heed to download these libs:
 2. webview(optional(if you want to use js for plugins))
 
 # Building the app
-If you want to build EXE file i recommend you to use Auto-py-to-exe
+Choose any builder which you want
 
 #P.S.
 I'm just starting using github:P
